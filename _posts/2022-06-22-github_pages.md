@@ -9,7 +9,7 @@
 3. 可以绑定域名
 4. 支持markdown
 
-
+Jekyll是一个简单的静态网站生成器，用于生成个人，项目或组织的网站。 它由GitHub联合创始人汤姆·普雷斯顿·沃纳用Ruby编写，并根据MIT许可证发布。
 
 ## 二、搭建日志
 
@@ -19,7 +19,13 @@
 4. 修改文件配置。
 5. 上传文件。
 
+参考：
 
+https://github.com/XiuzeZhou/xiuzezhou.github.io 
+
+http://zhouxiuze.com/
+
+https://zhuanlan.zhihu.com/p/259500237
 
 ## 三、git管理网站
 
